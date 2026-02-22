@@ -1,0 +1,3 @@
+npm ci serve para instalar as dependencias do projeto ideal quando se faz um git clone pega do packege-lock.json
+
+se eu usar o npm install ele vai atualizar os modulos de dentro do arquivo package.json
